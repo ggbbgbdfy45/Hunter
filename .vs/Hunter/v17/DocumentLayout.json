@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Hunter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{868EA822-CA13-815A-0AF9-D0096AB7D916}|Assembly-CSharp.csproj|c:\\users\\user\\hunter\\assets\\scripts\\guncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868EA822-CA13-815A-0AF9-D0096AB7D916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GunControl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Hunter\\Assets\\scripts\\GunControl.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GunControl.cs",
+              "ToolTip": "C:\\Users\\user\\Hunter\\Assets\\scripts\\GunControl.cs",
+              "RelativeToolTip": "Assets\\scripts\\GunControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:34:07.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
